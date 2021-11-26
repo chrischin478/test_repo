@@ -1,1 +1,1 @@
-https://glue-docker.s3.amazonaws.com/gluedev.tar.gz
+https://glue-docker.s3.amazonaws.com/gluedev.tar.gz?AWSAccessKeyId=AKIAXP6DRC5HIDAOPGGD&Signature=ujPdtQq13FzCy2XBLiJqtA%2FTFrA%3D&Expires=1637943131
